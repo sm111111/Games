@@ -69,9 +69,9 @@ h1 {
     color: black;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 300px) {
     .quiz-container {
-        width: 250px;
+        width: 80%;
         height: 600px;
         border: 5px solid black; /* Change border size for smaller screens */
     }
